@@ -1,3 +1,5 @@
+*Remarque: ceci est une copie locale du repository (https://github.com/pierre-db/SD728_NoSQL-Projet)  auquel j'ai participé*
+
 # Projet INF728 : NoSQL
 
 Liens vers l'énoncé du TP : http://andreiarion.github.io/Project2022.html.
@@ -15,9 +17,9 @@ La structure de la table Cassandra est détaillée dans le fichier ```scripts/re
 - ```table_d``` : extraite à partir du fichier ```gkg```. Elle contient l'ensemble des données nécessaires pour répondre à la question d, et notamment les données de lieu, langue, date (annee, mois, jour) et des agrégations sur le décompte total et le ton.
 
 **Machines utilisées :**
-- tp-hadoop-1  (Phileas)
-- tp-hadoop-2  (Gwladys)
-- tp-hadoop-5  (Pooran)
-- tp-hadoop-6  (Jia)
-- tp-hadoop-7  (Aurélien)
-- tp-hadoop-21 (Pierre)
+- tp-hadoop-1  
+- tp-hadoop-2  
+- tp-hadoop-5  
+- tp-hadoop-6  
+- tp-hadoop-7  
+- tp-hadoop-21 
